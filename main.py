@@ -3,10 +3,10 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_EMAIL = "spandantest12@gmail.com"
-MY_PASSWORD = "meaj qsab pxlh pxag"
-MY_LAT = 12.971389
-MY_LONG = 77.750130
+MY_EMAIL = "<your email>"
+MY_PASSWORD = "<app Password>"
+MY_LAT = #<your latitude>
+MY_LONG = #<your longitude>
 
 
 def is_iss_overhead():
